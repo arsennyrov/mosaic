@@ -1,0 +1,25 @@
+.app__main {
+  margin: 0 auto ;
+  font-size: calc(1vw + 1vh);
+}
+
+.app__head {
+  width: 80vw;
+  height: 18vh;
+  margin: 2vh auto ;
+  padding: 1vh;
+  background-color: #eeeeee;
+}
+
+.app__mosaic {
+  width: 80vw;
+  height: 80%;
+  margin: 8vh auto;
+}
+
+.app__input {
+  display: block;
+  width: 40vw;
+  margin: 2vh auto;
+  font-size: calc(1vw + 1vh);
+}

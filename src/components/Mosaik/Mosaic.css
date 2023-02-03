@@ -1,0 +1,16 @@
+.mosaic {
+    margin: 0 auto;
+    border-bottom: 2px solid rgb(73, 144, 87);
+    border-right: 2px solid rgb(73, 144, 87);
+  }
+  
+  .mosaic__item {
+    border-top: 2px solid rgb(73, 144, 87);
+    border-left: 2px solid rgb(73, 144, 87);
+    box-sizing: border-box;
+  }
+  
+  .mosaic__item-block {
+    padding-left: 10px;
+    line-height: .5vh;
+  }
